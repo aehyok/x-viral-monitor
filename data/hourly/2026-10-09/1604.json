@@ -1,0 +1,614 @@
+{
+  "run_at": "2026-10-09T08:15:07Z",
+  "run_at_beijing": "2026-10-09 16:15:07 CST",
+  "cron_slot": "2026-10-09 1604",
+  "accounts": [
+    "MinLiBuilds",
+    "Lonely__MH",
+    "AYi_AInotes",
+    "gkxspace",
+    "servasyy_ai",
+    "yyyole",
+    "Saccc_c",
+    "xiangxiang103"
+  ],
+  "threshold": 5000,
+  "posts_checked": 74,
+  "new_hits_count": 0,
+  "failed_accounts": [],
+  "checked_posts": [
+    {
+      "id": "2108195930986123399",
+      "author": "Lonely__MH",
+      "views": 67638,
+      "rate_per_hour": 4877.3,
+      "qualified": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2108340413602140448",
+      "author": "Lonely__MH",
+      "views": 60237,
+      "rate_per_hour": 4841.7,
+      "qualified": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2108354255631610263",
+      "author": "Lonely__MH",
+      "views": 30937,
+      "rate_per_hour": 4070.2,
+      "qualified": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2108364320899764655",
+      "author": "xiangxiang103",
+      "views": 15365,
+      "rate_per_hour": 3743.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108403821391286753",
+      "author": "Lonely__MH",
+      "views": 15648,
+      "rate_per_hour": 3281.4,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108204485478953149",
+      "author": "MinLiBuilds",
+      "views": 100807,
+      "rate_per_hour": 3230.2,
+      "qualified": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2108411248517775679",
+      "author": "xiangxiang103",
+      "views": 7486,
+      "rate_per_hour": 2512.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108368534963413293",
+      "author": "yyyole",
+      "views": 17199,
+      "rate_per_hour": 2281.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108368287591751969",
+      "author": "gkxspace",
+      "views": 13005,
+      "rate_per_hour": 2247.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108238820160520364",
+      "author": "xiangxiang103",
+      "views": 14447,
+      "rate_per_hour": 2027.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108151921353920592",
+      "author": "gkxspace",
+      "views": 51483,
+      "rate_per_hour": 1245.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108393595640377397",
+      "author": "servasyy_ai",
+      "views": 19455,
+      "rate_per_hour": 1026.2,
+      "qualified": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2108171766984302723",
+      "author": "xiangxiang103",
+      "views": 10625,
+      "rate_per_hour": 890.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108466486612467980",
+      "author": "yyyole",
+      "views": 284,
+      "rate_per_hour": 889.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108400308619526652",
+      "author": "AYi_AInotes",
+      "views": 3958,
+      "rate_per_hour": 661.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108225370424304090",
+      "author": "Lonely__MH",
+      "views": 12364,
+      "rate_per_hour": 525.9,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108427796229841212",
+      "author": "AYi_AInotes",
+      "views": 3493,
+      "rate_per_hour": 402.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108405631619314026",
+      "author": "Lonely__MH",
+      "views": 3363,
+      "rate_per_hour": 378.9,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108193727923765338",
+      "author": "MinLiBuilds",
+      "views": 25190,
+      "rate_per_hour": 377.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108357347513090425",
+      "author": "Lonely__MH",
+      "views": 4645,
+      "rate_per_hour": 367.9,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108199216720072942",
+      "author": "gkxspace",
+      "views": 27235,
+      "rate_per_hour": 358.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108410349561262181",
+      "author": "Lonely__MH",
+      "views": 1770,
+      "rate_per_hour": 352.4,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108430780263473620",
+      "author": "MinLiBuilds",
+      "views": 893,
+      "rate_per_hour": 350.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108154187343126747",
+      "author": "gkxspace",
+      "views": 6885,
+      "rate_per_hour": 317.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108347650697503087",
+      "author": "MinLiBuilds",
+      "views": 5658,
+      "rate_per_hour": 276.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108394705344147912",
+      "author": "yyyole",
+      "views": 1148,
+      "rate_per_hour": 271.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108142452943229413",
+      "author": "MinLiBuilds",
+      "views": 9207,
+      "rate_per_hour": 269.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108143767211680142",
+      "author": "gkxspace",
+      "views": 10987,
+      "rate_per_hour": 259.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108222018751774911",
+      "author": "xiangxiang103",
+      "views": 6165,
+      "rate_per_hour": 236.5,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108204490696622091",
+      "author": "MinLiBuilds",
+      "views": 7420,
+      "rate_per_hour": 194.5,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108177893239247095",
+      "author": "Lonely__MH",
+      "views": 44231,
+      "rate_per_hour": 191.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108351241910989233",
+      "author": "MinLiBuilds",
+      "views": 2081,
+      "rate_per_hour": 179.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108222758127825313",
+      "author": "servasyy_ai",
+      "views": 3179,
+      "rate_per_hour": 173.5,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108339014675878127",
+      "author": "servasyy_ai",
+      "views": 3048,
+      "rate_per_hour": 170.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108427802911359294",
+      "author": "AYi_AInotes",
+      "views": 459,
+      "rate_per_hour": 159.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108194873409151362",
+      "author": "MinLiBuilds",
+      "views": 8229,
+      "rate_per_hour": 149.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108204100471202039",
+      "author": "servasyy_ai",
+      "views": 28240,
+      "rate_per_hour": 148.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108466488860721271",
+      "author": "yyyole",
+      "views": 46,
+      "rate_per_hour": 144.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108217101035184164",
+      "author": "Saccc_c",
+      "views": 27235,
+      "rate_per_hour": 138.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108368393015292280",
+      "author": "AYi_AInotes",
+      "views": 2176,
+      "rate_per_hour": 128.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108220096716181976",
+      "author": "MinLiBuilds",
+      "views": 4489,
+      "rate_per_hour": 126.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108219413673701416",
+      "author": "MinLiBuilds",
+      "views": 3815,
+      "rate_per_hour": 121.4,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108345405482406055",
+      "author": "MinLiBuilds",
+      "views": 5168,
+      "rate_per_hour": 119.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108393598911987773",
+      "author": "servasyy_ai",
+      "views": 1093,
+      "rate_per_hour": 115.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108360645628526806",
+      "author": "MinLiBuilds",
+      "views": 1103,
+      "rate_per_hour": 105.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108368537022758941",
+      "author": "yyyole",
+      "views": 712,
+      "rate_per_hour": 104.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108393602359717976",
+      "author": "servasyy_ai",
+      "views": 990,
+      "rate_per_hour": 103.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108404924119699465",
+      "author": "AYi_AInotes",
+      "views": 1317,
+      "rate_per_hour": 102.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108200069359120881",
+      "author": "gkxspace",
+      "views": 3681,
+      "rate_per_hour": 102.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108233495462232202",
+      "author": "MinLiBuilds",
+      "views": 2877,
+      "rate_per_hour": 101.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108366158550429802",
+      "author": "MinLiBuilds",
+      "views": 968,
+      "rate_per_hour": 94.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108368616878129604",
+      "author": "gkxspace",
+      "views": 1068,
+      "rate_per_hour": 91.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108206186973786233",
+      "author": "MinLiBuilds",
+      "views": 3327,
+      "rate_per_hour": 65.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108392333108789442",
+      "author": "yyyole",
+      "views": 536,
+      "rate_per_hour": 47.5,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108200084899008628",
+      "author": "gkxspace",
+      "views": 804,
+      "rate_per_hour": 32.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108200056071610834",
+      "author": "gkxspace",
+      "views": 701,
+      "rate_per_hour": 29.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108199954695262219",
+      "author": "gkxspace",
+      "views": 744,
+      "rate_per_hour": 29.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108178258923852177",
+      "author": "Lonely__MH",
+      "views": 4397,
+      "rate_per_hour": 25.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108173554995081593",
+      "author": "servasyy_ai",
+      "views": 1648,
+      "rate_per_hour": 25.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108368602835628463",
+      "author": "gkxspace",
+      "views": 415,
+      "rate_per_hour": 24.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108199265902424143",
+      "author": "MinLiBuilds",
+      "views": 1173,
+      "rate_per_hour": 23.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108368655809646852",
+      "author": "gkxspace",
+      "views": 481,
+      "rate_per_hour": 22.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108368638185222278",
+      "author": "gkxspace",
+      "views": 481,
+      "rate_per_hour": 21.9,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108368586465313226",
+      "author": "gkxspace",
+      "views": 334,
+      "rate_per_hour": 19.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108142458521715083",
+      "author": "MinLiBuilds",
+      "views": 576,
+      "rate_per_hour": 16.4,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108118978942124082",
+      "author": "yyyole",
+      "views": 1086,
+      "rate_per_hour": 11.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108118001245729205",
+      "author": "yyyole",
+      "views": 1085,
+      "rate_per_hour": 11.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108142463290679552",
+      "author": "MinLiBuilds",
+      "views": 321,
+      "rate_per_hour": 10.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108226886778425439",
+      "author": "Lonely__MH",
+      "views": 368,
+      "rate_per_hour": 10.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108225862323851403",
+      "author": "Lonely__MH",
+      "views": 375,
+      "rate_per_hour": 10.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108200104243147237",
+      "author": "gkxspace",
+      "views": 928,
+      "rate_per_hour": 9.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108156795277721953",
+      "author": "xiangxiang103",
+      "views": 930,
+      "rate_per_hour": 8.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108142467426156807",
+      "author": "MinLiBuilds",
+      "views": 368,
+      "rate_per_hour": 7.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2108142471918313925",
+      "author": "MinLiBuilds",
+      "views": 329,
+      "rate_per_hour": 5.5,
+      "qualified": false,
+      "already_pushed": false
+    }
+  ],
+  "new_hits": []
+}
