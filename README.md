@@ -2,7 +2,7 @@
 
 私有仓库，存放 Grok Bot skill「X 博主爆款帖监测」以及每小时扫描结果。
 
-## 当前监测账号（8 个）
+## 当前监测账号（9 个）
 
 | 账号 | 主页 | 用户 ID |
 | --- | --- | --- |
@@ -14,6 +14,7 @@
 | @yyyole | https://x.com/yyyole | `939870716391854082` |
 | @Saccc_c | https://x.com/Saccc_c | `1869683226178146304` |
 | @xiangxiang103 | https://x.com/xiangxiang103 | `1385766205403713536` |
+| @gengdaJ | https://x.com/gengdaJ | `1897545708770840576` |
 
 账号增减以定时任务配置为准，同时会同步写入 `data/state/state.json` 的 `accounts` 字段。完整名单也见 [ACCOUNTS.md](ACCOUNTS.md)。
 
