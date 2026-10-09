@@ -13,5 +13,5 @@
   ],
   "snapshot_count": 48,
   "pushed_count": 4,
-  "note": "Initial import of live state; not a full hourly scan."
+  "note": "首次导入线上 state.json，不是完整扫描轮次。"
 }
