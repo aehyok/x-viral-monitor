@@ -1,0 +1,17 @@
+{
+  "run_at": "2026-10-09T12:36:01.934337+08:00",
+  "kind": "bootstrap",
+  "accounts": [
+    "MinLiBuilds",
+    "Lonely__MH",
+    "AYi_AInotes",
+    "gkxspace",
+    "servasyy_ai",
+    "yyyole",
+    "Saccc_c",
+    "xiangxiang103"
+  ],
+  "snapshot_count": 48,
+  "pushed_count": 4,
+  "note": "Initial import of live state; not a full hourly scan."
+}
