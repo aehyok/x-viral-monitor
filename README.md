@@ -33,6 +33,7 @@
 | 路径 | 内容 |
 | --- | --- |
 | `skill/SKILL.md` | 可复用的扫描流程（账号、阈值由调用方传入） |
+| `routine/PROMPT.md` | 定时任务的时间表和提示词原文 |
 | `ACCOUNTS.md` | 当前监测账号列表（中文） |
 | `data/state/state.json` | 最新状态：账号 id、浏览量快照、已推送帖子 |
 | `data/hourly/YYYY-MM-DD/HHMM.md` | 每小时一轮的中文简报 |
