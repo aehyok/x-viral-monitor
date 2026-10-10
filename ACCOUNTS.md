@@ -2,7 +2,7 @@
 
 最后更新：2026-10-09（北京时间）
 
-共 **11** 个账号：
+共 **12** 个账号：
 
 1. [@MinLiBuilds](https://x.com/MinLiBuilds) — id `1679698342283186177`
 2. [@Lonely__MH](https://x.com/Lonely__MH) — id `2926712868`
@@ -15,5 +15,6 @@
 9. [@gengdaJ](https://x.com/gengdaJ)（逸尘）— id `1897545708770840576`
 10. [@NFT_Chen](https://x.com/NFT_Chen)（SuSu_酥酥）— id `1429221486032678914`
 11. [@xiaomovps](https://x.com/xiaomovps)（小墨同学）— id `1572253121547735040`
+12. [@alin_zone](https://x.com/alin_zone)（阿蔺A-Lin）— id `1680532920413609987`
 
 机器可读副本在 `data/state/state.json` → `accounts`。
