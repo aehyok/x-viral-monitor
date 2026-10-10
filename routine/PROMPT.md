@@ -9,7 +9,7 @@
 ```text
 每小时按 skill「X 博主爆款帖监测」扫一轮，并把本轮数据归档到仓库 aehyok/x-viral-monitor。
 
-监测这 10 个 X 账号的最新原创帖（含引用帖，不含回复和纯转发）：@MinLiBuilds、@Lonely__MH、@AYi_AInotes、@gkxspace、@servasyy_ai、@yyyole、@Saccc_c、@xiangxiang103、@gengdaJ、@NFT_Chen。用公开 X 数据工具拉每个账号过去 24 小时内发的帖子及其浏览量（impression_count）。
+监测这 11 个 X 账号的最新原创帖（含引用帖，不含回复和纯转发）：@MinLiBuilds、@Lonely__MH、@AYi_AInotes、@gkxspace、@servasyy_ai、@yyyole、@Saccc_c、@xiangxiang103、@gengdaJ、@NFT_Chen、@xiaomovps。用公开 X 数据工具拉每个账号过去 24 小时内发的帖子及其浏览量（impression_count）。
 
 状态文件（运行时）：/cursor/stores/store-d01e1341-d634-4f09-9918-db1126394e2f/x-monitor/state.json，里面有账号 id、每条帖子上次记录的浏览量和时间（snapshots），以及已推送过的帖子 id（pushed）。阈值：每小时曝光超过 5000。时区：Asia/Shanghai。
 
