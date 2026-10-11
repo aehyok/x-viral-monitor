@@ -1,6 +1,6 @@
 # 定时任务：X 博主爆款帖监测
 
-- **时间表**：`CRON_TZ=Asia/Shanghai 4 7-23 * * *`（每天 07:04–23:04 北京时间，每小时一次，含周末）
+- **时间表**：`CRON_TZ=Asia/Shanghai 4 6-23 * * *`（每天 06:04–23:04 北京时间，每小时一次，含周末；06:04 为基准轮，只记数据不推送）
 - **调用的 skill**：[`skill/SKILL.md`](../skill/SKILL.md)
 - **结果去向**：有达标帖时推到 Grok Bot 对话；没有达标时不提醒，但仍会归档
 
@@ -8,6 +8,8 @@
 
 ```text
 每小时按 skill「X 博主爆款帖监测」扫一轮，并把本轮数据归档到仓库 aehyok/x-viral-monitor。
+
+特殊规则：北京时间 6 点这一轮只是基准轮，照常拉数据、更新 snapshots 并归档，但不判定达标、不加 pushed、不给用户发任何消息。它的作用是给 7 点那轮提供一小时前的对比基准。7 点及之后的轮次按下面规则正常判定和推送。
 
 监测这 12 个 X 账号的最新原创帖（含引用帖，不含回复和纯转发）：@MinLiBuilds、@Lonely__MH、@AYi_AInotes、@gkxspace、@servasyy_ai、@yyyole、@Saccc_c、@xiangxiang103、@gengdaJ、@NFT_Chen、@xiaomovps、@alin_zone。用公开 X 数据工具拉每个账号过去 24 小时内发的帖子及其浏览量（impression_count）。
 
@@ -21,11 +23,11 @@
 
 归档到 GitHub（本机目录 /workspace/x-viral-monitor，远端 aehyok/x-viral-monitor）：
 1. 先 git pull --rebase，再把更新后的 state.json 复制到 data/state/state.json。
-2. 按北京时间写本轮文件：data/hourly/YYYY-MM-DD/HHMM.md 与同名 .json。JSON 至少包含 run_at、accounts、每条检查过的帖子（id、author、views、rate_per_hour、qualified、already_pushed）、本轮新达标列表。Markdown 用中文写简报：扫了几个号、几条帖、新达标几条、最接近阈值的几条。
+2. 按北京时间写本轮文件：data/hourly/YYYY-MM-DD/HHMM.md 与同名 .json。JSON 至少包含 run_at、accounts、每条检查过的帖子（id、author、views、rate_per_hour、qualified、already_pushed）、本轮新达标列表（6 点基准轮写明 baseline: true，新达标为空）。Markdown 用中文写简报：扫了几个号、几条帖、新达标几条、最接近阈值的几条。
 3. 若账号列表或本提示词有变更，同步更新 ACCOUNTS.md、README.md 里的账号表和 routine/PROMPT.md。
 4. git add、commit（说明写本轮北京时间与达标条数）、push 到 origin。若目录缺失则先 gh 克隆 aehyok/x-viral-monitor。提交身份用仓库本地 git user（grokbot少年 / aehyok@163.com）。push 失败时在结果里说明，不要假装已归档。
 
-有达标帖子时，用中文给用户发一条简洁消息，每条帖子一行：作者、帖子链接（用 markdown，标签写帖子内容的简短概括）、当前浏览量、每小时增量、点赞/转发/书签数，时间按北京时间。可顺带一句「本轮数据已推到 aehyok/x-viral-monitor」。
+有达标帖子时（7 点及之后的轮次），用中文给用户发一条简洁消息，每条帖子一行：作者、帖子链接（用 markdown，标签写帖子内容的简短概括）、当前浏览量、每小时增量、点赞/转发/书签数，时间按北京时间。可顺带一句「本轮数据已推到 aehyok/x-viral-monitor」。
 
-结果发给这个对话里的用户本人。没有达标帖子时什么都不发，保持安静（仍要完成归档提交）。
+结果发给这个对话里的用户本人。没有达标帖子时、以及 6 点基准轮，什么都不发，保持安静（仍要完成归档提交）。
 ```
