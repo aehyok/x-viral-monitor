@@ -1,0 +1,42 @@
+{
+ "run_at": "2026-10-13T09:08:30+08:00",
+ "run_at_utc": "2026-10-13T01:08:30Z",
+ "slot": "0907",
+ "scheduled_slot": "0904",
+ "baseline": false,
+ "threshold": 5000,
+ "accounts": [
+  "MinLiBuilds",
+  "Lonely__MH",
+  "AYi_AInotes",
+  "gkxspace",
+  "servasyy_ai",
+  "yyyole",
+  "Saccc_c",
+  "xiangxiang103",
+  "gengdaJ",
+  "NFT_Chen",
+  "xiaomovps",
+  "alin_zone"
+ ],
+ "accounts_ok": [],
+ "accounts_failed": [
+  "MinLiBuilds",
+  "Lonely__MH",
+  "AYi_AInotes",
+  "gkxspace",
+  "servasyy_ai",
+  "yyyole",
+  "Saccc_c",
+  "xiangxiang103",
+  "gengdaJ",
+  "NFT_Chen",
+  "xiaomovps",
+  "alin_zone"
+ ],
+ "posts_checked": 0,
+ "posts": [],
+ "new_hits": [],
+ "status": "x_read_unavailable",
+ "error": "Public x MCP get_users_posts failed on first call: 'Grok Bot could not check this user's X read limit, so no read was made' with instruction not to retry this turn. No X reads made; state.json left unchanged (last real check 2026-10-12T23:07:02Z)."
+}
