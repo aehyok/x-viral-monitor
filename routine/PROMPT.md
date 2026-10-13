@@ -11,7 +11,7 @@
 
 特殊规则：北京时间 6 点这一轮只是基准轮，照常拉数据、更新 snapshots 并归档，但不判定达标、不加 pushed、不给用户发任何消息。它的作用是给 7 点那轮提供一小时前的对比基准。7 点及之后的轮次按下面规则正常判定和推送。
 
-监测这 12 个 X 账号的最新原创帖（含引用帖，不含回复和纯转发）：@MinLiBuilds、@Lonely__MH、@AYi_AInotes、@gkxspace、@servasyy_ai、@yyyole、@Saccc_c、@xiangxiang103、@gengdaJ、@NFT_Chen、@xiaomovps、@alin_zone。用公开 X 数据工具拉每个账号过去 24 小时内发的帖子及其浏览量（impression_count）。
+监测这 2 个 X 账号的最新原创帖（含引用帖，不含回复和纯转发）：@MinLiBuilds、@Lonely__MH。用公开 X 数据工具拉每个账号过去 24 小时内发的帖子及其浏览量（impression_count）。
 
 状态文件（运行时）：/cursor/stores/store-d01e1341-d634-4f09-9918-db1126394e2f/x-monitor/state.json，里面有账号 id、每条帖子上次记录的浏览量和时间（snapshots），以及已推送过的帖子 id（pushed）。阈值：每小时曝光超过 5000。时区：Asia/Shanghai。
 

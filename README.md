@@ -4,22 +4,12 @@
 
 > 数据来源为 X 公开帖子的浏览、点赞、转发、书签等公开指标，仅做趋势记录，不含任何私信或非公开内容。
 
-## 当前监测账号（12 个）
+## 当前监测账号（2 个）
 
 | 账号 | 主页 | 用户 ID |
 | --- | --- | --- |
 | @MinLiBuilds | https://x.com/MinLiBuilds | `1679698342283186177` |
 | @Lonely__MH | https://x.com/Lonely__MH | `2926712868` |
-| @AYi_AInotes | https://x.com/AYi_AInotes | `1974653328274714624` |
-| @gkxspace | https://x.com/gkxspace | `1881991469730594816` |
-| @servasyy_ai | https://x.com/servasyy_ai | `1998968758422179840` |
-| @yyyole | https://x.com/yyyole | `939870716391854082` |
-| @Saccc_c | https://x.com/Saccc_c | `1869683226178146304` |
-| @xiangxiang103 | https://x.com/xiangxiang103 | `1385766205403713536` |
-| @gengdaJ | https://x.com/gengdaJ | `1897545708770840576` |
-| @NFT_Chen | https://x.com/NFT_Chen | `1429221486032678914` |
-| @xiaomovps | https://x.com/xiaomovps | `1572253121547735040` |
-| @alin_zone | https://x.com/alin_zone | `1680532920413609987` |
 
 账号增减以定时任务配置为准，同时会同步写入 `data/state/state.json` 的 `accounts` 字段。完整名单也见 [ACCOUNTS.md](ACCOUNTS.md)。
 
