@@ -2,17 +2,7 @@
   "note": "Hourly X watch state. snapshots: post_id -> {views, checked_at UTC}. pushed: post ids already sent to user.",
   "accounts": {
     "MinLiBuilds": "1679698342283186177",
-    "Lonely__MH": "2926712868",
-    "AYi_AInotes": "1974653328274714624",
-    "gkxspace": "1881991469730594816",
-    "servasyy_ai": "1998968758422179840",
-    "yyyole": "939870716391854082",
-    "Saccc_c": "1869683226178146304",
-    "xiangxiang103": "1385766205403713536",
-    "gengdaJ": "1897545708770840576",
-    "NFT_Chen": "1429221486032678914",
-    "xiaomovps": "1572253121547735040",
-    "alin_zone": "1680532920413609987"
+    "Lonely__MH": "2926712868"
   },
   "snapshots": {
     "2109659472897716528": {
