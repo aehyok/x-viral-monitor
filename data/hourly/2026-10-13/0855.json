@@ -1,0 +1,42 @@
+{
+ "run_at": "2026-10-13T08:56:11+08:00",
+ "run_at_utc": "2026-10-13T00:56:11Z",
+ "slot": "0855",
+ "scheduled_slot": "0804",
+ "baseline": false,
+ "threshold": 5000,
+ "accounts": [
+  "MinLiBuilds",
+  "Lonely__MH",
+  "AYi_AInotes",
+  "gkxspace",
+  "servasyy_ai",
+  "yyyole",
+  "Saccc_c",
+  "xiangxiang103",
+  "gengdaJ",
+  "NFT_Chen",
+  "xiaomovps",
+  "alin_zone"
+ ],
+ "accounts_ok": [],
+ "accounts_failed": [
+  "MinLiBuilds",
+  "Lonely__MH",
+  "AYi_AInotes",
+  "gkxspace",
+  "servasyy_ai",
+  "yyyole",
+  "Saccc_c",
+  "xiangxiang103",
+  "gengdaJ",
+  "NFT_Chen",
+  "xiaomovps",
+  "alin_zone"
+ ],
+ "posts_checked": 0,
+ "posts": [],
+ "new_hits": [],
+ "status": "x_read_unavailable",
+ "error": "Public x MCP get_users_posts failed for all 12 accounts: 'could not check this user's X read limit, so no read was made' (10 accounts) / 'get_users_posts is not available on shared X access' (servasyy_ai, yyyole). No X reads made; state.json left unchanged (last real check 2026-10-12T23:07:02Z)."
+}
