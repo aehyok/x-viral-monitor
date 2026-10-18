@@ -17,7 +17,7 @@ This skill is the **scan recipe**. Account list, threshold, lookback window, tim
 | --- | --- |
 | `accounts` | Required: list of X `@username`s |
 | `threshold` | `5000` views per hour |
-| `lookback_hours` | `24` |
+| `lookback_hours` | `12` |
 | `timezone` | `Asia/Shanghai` |
 | `state_path` | Caller-owned JSON under the bot store, e.g. `…/x-monitor/state.json` |
 | `language` | Match the user (Chinese if they write Chinese) |
