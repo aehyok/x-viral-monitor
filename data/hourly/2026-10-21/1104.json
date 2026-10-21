@@ -1,0 +1,260 @@
+{
+  "run_at": "2026-10-21T03:12:00Z",
+  "run_beijing": "2026-10-21 11:04",
+  "baseline": false,
+  "accounts": [
+    "MinLiBuilds",
+    "Lonely__MH",
+    "AYi_AInotes",
+    "gkxspace",
+    "servasyy_ai",
+    "yyyole",
+    "Saccc_c",
+    "xiangxiang103",
+    "gengdaJ",
+    "NFT_Chen",
+    "xiaomovps",
+    "alin_zone"
+  ],
+  "accounts_failed": [],
+  "posts_checked": [
+    {
+      "id": "2112707005530161367",
+      "author": "MinLiBuilds",
+      "views": 1521,
+      "rate_per_hour": 379.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112701845194056120",
+      "author": "MinLiBuilds",
+      "views": 631,
+      "rate_per_hour": 89.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112728593189273614",
+      "author": "Lonely__MH",
+      "views": 402,
+      "rate_per_hour": 402.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112695864003022894",
+      "author": "Lonely__MH",
+      "views": 3102,
+      "rate_per_hour": 1680.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112571742321524739",
+      "author": "Lonely__MH",
+      "views": 10303,
+      "rate_per_hour": 2969.4,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112725874239824066",
+      "author": "AYi_AInotes",
+      "views": 726,
+      "rate_per_hour": 550.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112713942824849805",
+      "author": "AYi_AInotes",
+      "views": 983,
+      "rate_per_hour": 330.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112600239203090781",
+      "author": "AYi_AInotes",
+      "views": 2191,
+      "rate_per_hour": 225.9,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112596003681714651",
+      "author": "AYi_AInotes",
+      "views": 2022,
+      "rate_per_hour": 205.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112733308509618633",
+      "author": "servasyy_ai",
+      "views": 3872,
+      "rate_per_hour": 5638.8,
+      "qualified": true,
+      "already_pushed": false
+    },
+    {
+      "id": "2112571548825792777",
+      "author": "yyyole",
+      "views": 7197,
+      "rate_per_hour": 651.9,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112568591543681242",
+      "author": "yyyole",
+      "views": 1378,
+      "rate_per_hour": 159.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112565434453275053",
+      "author": "yyyole",
+      "views": 2917,
+      "rate_per_hour": 361.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112562728799731955",
+      "author": "yyyole",
+      "views": 8992,
+      "rate_per_hour": 1748.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112721654216544693",
+      "author": "Saccc_c",
+      "views": 4341,
+      "rate_per_hour": 3354.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112705550769385842",
+      "author": "xiangxiang103",
+      "views": 2345,
+      "rate_per_hour": 1181.5,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112621993711542682",
+      "author": "NFT_Chen",
+      "views": 1658,
+      "rate_per_hour": 188.9,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112615060019499222",
+      "author": "NFT_Chen",
+      "views": 3857,
+      "rate_per_hour": 398.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112605622541955530",
+      "author": "NFT_Chen",
+      "views": 10570,
+      "rate_per_hour": 613.9,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112599506290442301",
+      "author": "NFT_Chen",
+      "views": 11298,
+      "rate_per_hour": 2370.4,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112591210305208827",
+      "author": "NFT_Chen",
+      "views": 4876,
+      "rate_per_hour": 375.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112580415336964139",
+      "author": "NFT_Chen",
+      "views": 6312,
+      "rate_per_hour": 348.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112571045442146752",
+      "author": "NFT_Chen",
+      "views": 4842,
+      "rate_per_hour": 302.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112720772670312472",
+      "author": "xiaomovps",
+      "views": 1005,
+      "rate_per_hour": 692.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2112571197515092249",
+      "author": "xiaomovps",
+      "views": 2326,
+      "rate_per_hour": 740.7,
+      "qualified": false,
+      "already_pushed": false
+    }
+  ],
+  "new_hits": [
+    {
+      "id": "2112733308509618633",
+      "author": "servasyy_ai",
+      "url": "https://x.com/servasyy_ai/status/2112733308509618633",
+      "title": "全世界第一个“记忆原生”大模型 MemT-1.0 上线 ！",
+      "views": 3872,
+      "rate_per_hour": 5638.8,
+      "likes": 26,
+      "retweets": 6,
+      "bookmarks": 15,
+      "created_at": "2026-10-21T02:30:48.000Z",
+      "push_line": "@servasyy_ai [全世界第一个“记忆原生”大模型 MemT-1.0 上线 ！](https://x.com/servasyy_ai/status/2112733308509618633) · 浏览 3,872 · 每小时 +5,639 · 赞 26 / 转发 6 / 书签 15 · 2026-10-21 10:30"
+    }
+  ],
+  "closest3": [
+    {
+      "id": "2112733308509618633",
+      "author": "servasyy_ai",
+      "views": 3872,
+      "rate_per_hour": 5638.8,
+      "title": "全世界第一个“记忆原生”大模型 MemT-1.0 上线 ！"
+    },
+    {
+      "id": "2112721654216544693",
+      "author": "Saccc_c",
+      "views": 4341,
+      "rate_per_hour": 3354.6,
+      "title": "Larping 玩法的视频生成成本直接被 Wan 3.0打下来了！"
+    },
+    {
+      "id": "2112571742321524739",
+      "author": "Lonely__MH",
+      "views": 10303,
+      "rate_per_hour": 2969.4,
+      "title": "🎉见证历史 ！DeepSeek V4.1-Flash-1017 现已支持本地部署…"
+    }
+  ]
+}
