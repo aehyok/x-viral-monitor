@@ -1,0 +1,1386 @@
+{
+  "run_at": "2026-10-29 23:04 Asia/Shanghai",
+  "baseline": false,
+  "accounts": [
+    "MinLiBuilds",
+    "Lonely__MH",
+    "AYi_AInotes",
+    "gkxspace",
+    "servasyy_ai",
+    "yyyole",
+    "Saccc_c",
+    "xiangxiang103",
+    "gengdaJ",
+    "NFT_Chen",
+    "xiaomovps",
+    "alin_zone"
+  ],
+  "accounts_ok": [
+    "MinLiBuilds",
+    "Lonely__MH",
+    "AYi_AInotes",
+    "gkxspace",
+    "servasyy_ai",
+    "yyyole",
+    "Saccc_c",
+    "xiangxiang103",
+    "gengdaJ",
+    "NFT_Chen",
+    "xiaomovps",
+    "alin_zone"
+  ],
+  "accounts_failed": [],
+  "posts_checked": [
+    {
+      "id": "2115809771983147169",
+      "author": "MinLiBuilds",
+      "views": 594,
+      "rate_per_hour": 594.0,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T14:15:34.000Z",
+      "url": "https://x.com/MinLiBuilds/status/2115809771983147169",
+      "text": "😲 他让Grok bot维护了关注列表里所有人的发言。他不用刷X了。\n\n这是我见过把 Grok Bot 用到炉火纯青的一个人。\n\n$100 一档的账号，基本上把",
+      "metrics": {
+        "bookmark_count": 3,
+        "impression_count": 594,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115753136241664299",
+      "author": "MinLiBuilds",
+      "views": 1686,
+      "rate_per_hour": 161.8,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T10:30:31.000Z",
+      "url": "https://x.com/MinLiBuilds/status/2115753136241664299",
+      "text": "🚀 Qwen 4 官宣下周推出\n\n在阿姆斯特丹会议上\n\n终于可以说了，下周热闹了。 https://t.co/De74jsbbLm",
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1686,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115725105351532873",
+      "author": "MinLiBuilds",
+      "views": 2293,
+      "rate_per_hour": 354.8,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T08:39:08.000Z",
+      "url": "https://x.com/MinLiBuilds/status/2115725105351532873",
+      "text": "✌️ 换装成功了！完整提示词 + 参考图都给你。\n\n淘宝电商拿这玩意儿做商品展示，不得嘎嘎秒杀同行啊？\n\n直接去复刻👇 https://t.co/iYRtxut",
+      "metrics": {
+        "bookmark_count": 9,
+        "impression_count": 2293,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115709891579105552",
+      "author": "MinLiBuilds",
+      "views": 758,
+      "rate_per_hour": 35.5,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T07:38:40.000Z",
+      "url": "https://x.com/MinLiBuilds/status/2115709891579105552",
+      "text": "薄肌 = 脱脂牛马？\n\n锻炼内在才是王道啊 https://t.co/xet295WapI https://t.co/1H9N7wZejl",
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 758,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115799620056187048",
+      "author": "Lonely__MH",
+      "views": 864,
+      "rate_per_hour": 377.8,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T13:35:13.000Z",
+      "url": "https://x.com/Lonely__MH/status/2115799620056187048",
+      "text": "🔥真 - 涨姿势了！\n\n1000+ 白膜姿势线稿，五机位！\n\nAI 生图 、生视频的有福了！\n\n传送门👇🏻 https://t.co/Mo32U5unpy ht",
+      "metrics": {
+        "bookmark_count": 5,
+        "impression_count": 864,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115761742135636254",
+      "author": "Lonely__MH",
+      "views": 1204,
+      "rate_per_hour": 125.2,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T11:04:42.000Z",
+      "url": "https://x.com/Lonely__MH/status/2115761742135636254",
+      "text": "🎉 Qwen4 要来了！就在下周\n\n共四个型号：\n\n1. Qwen4-Max：旗舰\n2. Qwen4-Plus：主力\n3. Qwen4-Flash：快、便宜\n4",
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1204,
+        "like_count": 7,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115647845160145405",
+      "author": "Lonely__MH",
+      "views": 5540,
+      "rate_per_hour": 432.1,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T03:32:07.000Z",
+      "url": "https://x.com/Lonely__MH/status/2115647845160145405",
+      "text": "🔥 全体起立！全部给我去抖音起号！！！\n\n🎃 真人换装第三弹！万圣节版本爆改来袭！\n\n这两天私信直接炸了！\n\n好多人问前两期的换装流程怎么跑，甚至还有想付费交学",
+      "metrics": {
+        "bookmark_count": 43,
+        "impression_count": 5540,
+        "like_count": 62,
+        "quote_count": 3,
+        "reply_count": 30,
+        "retweet_count": 11
+      }
+    },
+    {
+      "id": "2115804371409629412",
+      "author": "AYi_AInotes",
+      "views": 1261,
+      "rate_per_hour": 789.0,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T13:54:06.000Z",
+      "url": "https://x.com/AYi_AInotes/status/2115804371409629412",
+      "text": "兄弟们，翻墙出来一定要多看优质的信息源，不要只是出来看片！多逛英推区，简直是一个宝藏！(◍╹ｘ╹◍)\n\n前 Snap 首位产品经理、如今执掌 X 核心产品的 P",
+      "metrics": {
+        "bookmark_count": 11,
+        "impression_count": 1261,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 2
+      }
+    },
+    {
+      "id": "2115754246956056724",
+      "author": "AYi_AInotes",
+      "views": 29243,
+      "rate_per_hour": 9870.0,
+      "qualified": false,
+      "already_pushed": true,
+      "created_at": "2026-10-29T10:34:55.000Z",
+      "url": "https://x.com/AYi_AInotes/status/2115754246956056724",
+      "text": "白天刚在法庭上输掉与 OpenAI 的百亿对决，当晚马斯克坐在福布斯晚宴上，状态失神的让人心疼，但他却说出了全场最让人脊背发凉的一句话：\nAI 在全方位超越人类",
+      "metrics": {
+        "bookmark_count": 68,
+        "impression_count": 29243,
+        "like_count": 99,
+        "quote_count": 5,
+        "reply_count": 13,
+        "retweet_count": 18
+      }
+    },
+    {
+      "id": "2115737728344109432",
+      "author": "AYi_AInotes",
+      "views": 1378,
+      "rate_per_hour": 79.3,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T09:29:17.000Z",
+      "url": "https://x.com/AYi_AInotes/status/2115737728344109432",
+      "text": "如果女朋友或者老婆跟你发消息说：你根本不在乎我，你怎么回？\n这里跟大家分享一个亲密关系沟通的焚决：先接情绪，绝不讲理，\n大家一定要知道，亲密关系沟通的大忌是在微",
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1378,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115717417431167088",
+      "author": "AYi_AInotes",
+      "views": 3617,
+      "rate_per_hour": 397.6,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T08:08:35.000Z",
+      "url": "https://x.com/AYi_AInotes/status/2115717417431167088",
+      "text": "Google CEO桑达尔·皮查伊在刚开完的财报电话会上抛出的一句话，直接把技术圈炸翻了：\n我们已经到了这样一个阶段，AI 正在帮助我们提升训练和发布速度。我预",
+      "metrics": {
+        "bookmark_count": 6,
+        "impression_count": 3617,
+        "like_count": 12,
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 3
+      }
+    },
+    {
+      "id": "2115708837046960213",
+      "author": "AYi_AInotes",
+      "views": 2122,
+      "rate_per_hour": 79.3,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T07:34:29.000Z",
+      "url": "https://x.com/AYi_AInotes/status/2115708837046960213",
+      "text": "卧槽、卧槽，刚发现X 偷偷给复制链接加哈希串的追踪尾巴了，前几天好像还没有，不知道大家有没有遇到，还是只是我是个例？查了下，我们的手机型号与社交关系平台一览无余",
+      "metrics": {
+        "bookmark_count": 11,
+        "impression_count": 2122,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115701870664593442",
+      "author": "AYi_AInotes",
+      "views": 1970,
+      "rate_per_hour": 114.8,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T07:06:48.000Z",
+      "url": "https://x.com/AYi_AInotes/status/2115701870664593442",
+      "text": "如果人类文明在未来被马斯克说的超级智能接管，所有法典都要被重写，\n那么《非暴力沟通》大概率是唯一一本不需要删改任何一行逻辑的沟通协议。\n它根本不是一本教你情商变",
+      "metrics": {
+        "bookmark_count": 11,
+        "impression_count": 1970,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 2
+      }
+    },
+    {
+      "id": "2115677152834097630",
+      "author": "AYi_AInotes",
+      "views": 13949,
+      "rate_per_hour": 1544.6,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T05:28:35.000Z",
+      "url": "https://x.com/AYi_AInotes/status/2115677152834097630",
+      "text": "最近A股行情很不好，心情复杂，最近最大的一个感触是：我们这代股民最大的误解，是误以为国运等于股价。\n\n《经济学人》最新一期文章也说中国股市是个罕见例外，提出了一",
+      "metrics": {
+        "bookmark_count": 55,
+        "impression_count": 13949,
+        "like_count": 93,
+        "quote_count": 9,
+        "reply_count": 13,
+        "retweet_count": 13
+      }
+    },
+    {
+      "id": "2115665851403673788",
+      "author": "AYi_AInotes",
+      "views": 24942,
+      "rate_per_hour": 2034.1,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T04:43:40.000Z",
+      "url": "https://x.com/AYi_AInotes/status/2115665851403673788",
+      "text": "https://t.co/I431zBBUB3",
+      "metrics": {
+        "bookmark_count": 149,
+        "impression_count": 24942,
+        "like_count": 127,
+        "quote_count": 17,
+        "reply_count": 39,
+        "retweet_count": 8
+      }
+    },
+    {
+      "id": "2115765446515536265",
+      "author": "gkxspace",
+      "views": 5912,
+      "rate_per_hour": 1662.6,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T11:19:26.000Z",
+      "url": "https://x.com/gkxspace/status/2115765446515536265",
+      "text": "说实话，经常被 Claude 封号折腾的人，可以把这套流程录成技能了😅\n\n重新注册 Gmail、配置电脑环境、注册美区 Apple ID、买美区礼品卡、开 Pr",
+      "metrics": {
+        "bookmark_count": 31,
+        "impression_count": 5912,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 2
+      }
+    },
+    {
+      "id": "2115764512796426424",
+      "author": "gkxspace",
+      "views": 1713,
+      "rate_per_hour": 519.7,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T11:15:43.000Z",
+      "url": "https://x.com/gkxspace/status/2115764512796426424",
+      "text": "Record &amp; Replay 绝对是被很多人低估的功能\n\n现在好多人、公司都在问，AI 到底该怎么用\n\n其实大部分人每天干的，都是重复的活、重复的问题",
+      "metrics": {
+        "bookmark_count": 5,
+        "impression_count": 1713,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115748452697305300",
+      "author": "gkxspace",
+      "views": 11932,
+      "rate_per_hour": 2725.0,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T10:11:54.000Z",
+      "url": "https://x.com/gkxspace/status/2115748452697305300",
+      "text": "https://t.co/x6FY8SKN68",
+      "metrics": {
+        "bookmark_count": 56,
+        "impression_count": 11932,
+        "like_count": 28,
+        "quote_count": 5,
+        "reply_count": 9,
+        "retweet_count": 4
+      }
+    },
+    {
+      "id": "2115761717632434347",
+      "author": "servasyy_ai",
+      "views": 4121,
+      "rate_per_hour": 818.2,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T11:04:37.000Z",
+      "url": "https://x.com/servasyy_ai/status/2115761717632434347",
+      "text": "如何把 4090 跑 MiniMax H3 双采从 41 分钟压到 10分钟内？\n核心秘密其实就一句话：首采上降分辨率！\n\nMiniMax H3我也非常喜欢用双",
+      "metrics": {
+        "bookmark_count": 55,
+        "impression_count": 4121,
+        "like_count": 49,
+        "quote_count": 1,
+        "reply_count": 8,
+        "retweet_count": 7
+      }
+    },
+    {
+      "id": "2115686508095242263",
+      "author": "servasyy_ai",
+      "views": 4217,
+      "rate_per_hour": 419.6,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T06:05:45.000Z",
+      "url": "https://x.com/servasyy_ai/status/2115686508095242263",
+      "text": "Codex来送钱！\n打不过Claude，还慢，还降智，降额度！\n\n但是看在你送钱的份上，先留着：\n1， 安装这个openai 官方插件：https://t.co",
+      "metrics": {
+        "bookmark_count": 18,
+        "impression_count": 4217,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115683585630093698",
+      "author": "servasyy_ai",
+      "views": 1397,
+      "rate_per_hour": 37.6,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T05:54:08.000Z",
+      "url": "https://x.com/servasyy_ai/status/2115683585630093698",
+      "text": "我的多台 Mac、服务器与全网信息，终于被连成了一个“外挂大脑”🤯\n\n 把所有设备接进知识库工作台后真是太爽了，早这么搞能少走多少弯路😭\n\n 手里多台 Mac ",
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 1397,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115819352138436915",
+      "author": "yyyole",
+      "views": 156,
+      "rate_per_hour": 156.0,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T14:53:38.000Z",
+      "url": "https://x.com/yyyole/status/2115819352138436915",
+      "text": "我猜今年春晚，应该会有AI制作的视听类节目！！\n或者用一些已故艺术家的形象，做AI节目。 https://t.co/plqwkvK1dd",
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 156,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115815776292901070",
+      "author": "yyyole",
+      "views": 800,
+      "rate_per_hour": 800.0,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T14:39:25.000Z",
+      "url": "https://x.com/yyyole/status/2115815776292901070",
+      "text": "好看！爱看！！\n这绝对是起号新姿势！ https://t.co/BojQabuNua",
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 800,
+        "like_count": 3,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115794191158796682",
+      "author": "yyyole",
+      "views": 389,
+      "rate_per_hour": 140.9,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T13:13:39.000Z",
+      "url": "https://x.com/yyyole/status/2115794191158796682",
+      "text": "一切皆可交易，万物皆可合约？？\n怪不得交易平台赚钱呢，脑子就是好使！\n\n这边 Anthropic 刚递交招股书没两天，@okxchinese 就上线Anthro",
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 389,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115754345816002969",
+      "author": "yyyole",
+      "views": 760,
+      "rate_per_hour": 75.1,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T10:35:19.000Z",
+      "url": "https://x.com/yyyole/status/2115754345816002969",
+      "text": "有人被围殴！这难道是梁圣的视角？？\n\n不得不说，H3的效果是真不错!\n很多做短剧的朋友，主力模型都在用H3！\n成本够低，而且生成速度拉满！ https://t.",
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 760,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115734051508404369",
+      "author": "yyyole",
+      "views": 1035,
+      "rate_per_hour": 163.9,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T09:14:40.000Z",
+      "url": "https://x.com/yyyole/status/2115734051508404369",
+      "text": "被闪到了！！！ https://t.co/imrvYlWaGr",
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1035,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115732535837860240",
+      "author": "yyyole",
+      "views": 4274,
+      "rate_per_hour": 900.7,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T09:08:39.000Z",
+      "url": "https://x.com/yyyole/status/2115732535837860240",
+      "text": "终于找到一个可以低成本、在线畅用H3的平台了！！\n不用折腾本地部署，暂时也不用花钱换电脑了！\n一秒的成本不到1毛钱！！\n\n最近优云智算 Compshare接入了",
+      "metrics": {
+        "bookmark_count": 23,
+        "impression_count": 4274,
+        "like_count": 28,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115699099479716188",
+      "author": "yyyole",
+      "views": 1898,
+      "rate_per_hour": 130.5,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T06:55:47.000Z",
+      "url": "https://x.com/yyyole/status/2115699099479716188",
+      "text": "有时候觉得京东比闲鱼还牛X！！\n\n闲鱼上用各种黑话都搜不到的东西，在京东上可以堂堂正正上架出售！！ https://t.co/uKKiklcBgk",
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1898,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115696891145191496",
+      "author": "yyyole",
+      "views": 700,
+      "rate_per_hour": 34.4,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T06:47:01.000Z",
+      "url": "https://x.com/yyyole/status/2115696891145191496",
+      "text": "这玩意儿究竟在得意啥？？\n不练上剑练下剑，不秀上限秀下限！ https://t.co/JkPG0x7jfL",
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 700,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115685132711637456",
+      "author": "yyyole",
+      "views": 4441,
+      "rate_per_hour": 593.8,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T06:00:17.000Z",
+      "url": "https://x.com/yyyole/status/2115685132711637456",
+      "text": "真不敢相信这是豆包一键生成出来的！！！\n\n零参考，我让豆包自己学习Opus5.5的能力，给GPT做个视频。\n\n最超出我预期是它直接搓出来的BGM！\n很燃！节奏和",
+      "metrics": {
+        "bookmark_count": 19,
+        "impression_count": 4441,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 4
+      }
+    },
+    {
+      "id": "2115644558671536587",
+      "author": "yyyole",
+      "views": 1466,
+      "rate_per_hour": 29.2,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T03:19:04.000Z",
+      "url": "https://x.com/yyyole/status/2115644558671536587",
+      "text": "如果你无聊的时候，不想只是刷手机，可以试试把这个提示词发给AI： https://t.co/3rVspehxX1",
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 1466,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115764968008396992",
+      "author": "Saccc_c",
+      "views": 6872,
+      "rate_per_hour": 1568.6,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T11:17:32.000Z",
+      "url": "https://x.com/Saccc_c/status/2115764968008396992",
+      "text": "直接开源视频中的卡点转场效果，将制作流程全部打包成skill，放在下面这个GitHub仓库里了！\n\n🔗：https://t.co/QaE7lzf5UM\n\n让你的",
+      "metrics": {
+        "bookmark_count": 122,
+        "impression_count": 6872,
+        "like_count": 114,
+        "quote_count": 3,
+        "reply_count": 17,
+        "retweet_count": 17
+      }
+    },
+    {
+      "id": "2115714276661063710",
+      "author": "Saccc_c",
+      "views": 7476,
+      "rate_per_hour": 629.3,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T07:56:06.000Z",
+      "url": "https://x.com/Saccc_c/status/2115714276661063710",
+      "text": "将神佬开源的东西拿去卖钱，不知道怎么形容这种人了\n\n大家看到就尽早远离\n\n做一个利他的人，利他就是利己 ❤️ https://t.co/lqpVEKi4ZD",
+      "metrics": {
+        "bookmark_count": 10,
+        "impression_count": 7476,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115692493190594901",
+      "author": "Saccc_c",
+      "views": 9021,
+      "rate_per_hour": 488.4,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T06:29:32.000Z",
+      "url": "https://x.com/Saccc_c/status/2115692493190594901",
+      "text": "怎么就被扒出来了，我将作为 speaker 参加此次上海 aie 大会，会分享如何 16 天开发出小王子这款游戏\n\n我看了看其他的分享者，很多都是硅谷和国内的 ",
+      "metrics": {
+        "bookmark_count": 17,
+        "impression_count": 9021,
+        "like_count": 119,
+        "quote_count": 2,
+        "reply_count": 41,
+        "retweet_count": 6
+      }
+    },
+    {
+      "id": "2115687825576493296",
+      "author": "Saccc_c",
+      "views": 4677,
+      "rate_per_hour": 653.3,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T06:10:59.000Z",
+      "url": "https://x.com/Saccc_c/status/2115687825576493296",
+      "text": "这个剪辑skill真是自媒体人的必备啊\n\n近百个broll模版，一键完成智能分镜 ➡️ 素材生成 ➡️ AI剪辑，这我高低得来试试了🤩 https://t.co",
+      "metrics": {
+        "bookmark_count": 22,
+        "impression_count": 4677,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115787902756253788",
+      "author": "xiangxiang103",
+      "views": 852,
+      "rate_per_hour": 567.8,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T12:48:40.000Z",
+      "url": "https://x.com/xiangxiang103/status/2115787902756253788",
+      "text": "🚨限免 48 小时！MiniMax M3.1 Flash 的去拒答版，OrcaRouter 免费放出来了\n官方跑分 CyberGym 82.2、DeepSWE ",
+      "metrics": {
+        "bookmark_count": 2,
+        "impression_count": 852,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115814307518988536",
+      "author": "NFT_Chen",
+      "views": 748,
+      "rate_per_hour": 748.0,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T14:33:35.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115814307518988536",
+      "text": "🔥加速芯片国产化！中国公司新芯航途首曝下一代AI大模型芯片XHEART X9！ 预计2027年发布！\n\n🔹3000 TOPS大模型算力 + 700GB/s单芯片",
+      "metrics": {
+        "bookmark_count": 7,
+        "impression_count": 748,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 5
+      }
+    },
+    {
+      "id": "2115807274279305389",
+      "author": "NFT_Chen",
+      "views": 2011,
+      "rate_per_hour": 1860.9,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T14:05:38.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115807274279305389",
+      "text": "🔥豆包是认真的！豆包工作向企业开放三方模型，首批接入Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash！\n\n首批支持Kimi 3.",
+      "metrics": {
+        "bookmark_count": 9,
+        "impression_count": 2011,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 4
+      }
+    },
+    {
+      "id": "2115798008625594837",
+      "author": "NFT_Chen",
+      "views": 3859,
+      "rate_per_hour": 2435.9,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T13:28:49.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115798008625594837",
+      "text": "🚨重磅爆料！美方锁定英伟达黄仁勋身边“中国情报人员”！\n\n据《纽约时报》独家：美国情报机构认定新加坡Megaspeed高管Alice Huang（黄乐）为中国间",
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 3859,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 5
+      }
+    },
+    {
+      "id": "2115792737131954348",
+      "author": "NFT_Chen",
+      "views": 1636,
+      "rate_per_hour": 560.5,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T13:07:52.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115792737131954348",
+      "text": "🚨重磅！Kimi 正式接入 Google 全家桶，与国际生产力工具无缝接轨！\n\n关键要点： 🔹现已支持 Gmail：一键总结邮件线程，快速抓住重点\n🔹支持 Go",
+      "metrics": {
+        "bookmark_count": 5,
+        "impression_count": 1636,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 4
+      }
+    },
+    {
+      "id": "2115786624084943109",
+      "author": "NFT_Chen",
+      "views": 3674,
+      "rate_per_hour": 1462.2,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T12:43:35.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115786624084943109",
+      "text": "Sam Altman在酒吧里喝着啤酒说了一句最清醒的话：\n\n宁愿有万亿个略超人类的AI，也不要一个IQ万亿的单一超级智能。\n\n他同时承认：沙盒挡不住比安全研究员",
+      "metrics": {
+        "bookmark_count": 12,
+        "impression_count": 3674,
+        "like_count": 18,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 6
+      }
+    },
+    {
+      "id": "2115766422479806467",
+      "author": "NFT_Chen",
+      "views": 3605,
+      "rate_per_hour": 662.7,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T11:23:18.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115766422479806467",
+      "text": "是真的！Qwen 4.0全家桶即将登场！\n\n时间锁定：11.02-11.06\n\n#Qwen #Alibaba #刘大一恒 https://t.co/FEn2LS",
+      "metrics": {
+        "bookmark_count": 11,
+        "impression_count": 3605,
+        "like_count": 37,
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 4
+      }
+    },
+    {
+      "id": "2115761564238463301",
+      "author": "NFT_Chen",
+      "views": 5169,
+      "rate_per_hour": 779.6,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T11:04:00.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115761564238463301",
+      "text": "💥牛逼！长对话编辑后首token狂飙50倍！DeepSeek V4.1 Flash 1017本地版炸了！\n\nProject Maya v1.1.37来了，Dee",
+      "metrics": {
+        "bookmark_count": 21,
+        "impression_count": 5169,
+        "like_count": 41,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 8
+      }
+    },
+    {
+      "id": "2115754446194171911",
+      "author": "NFT_Chen",
+      "views": 4554,
+      "rate_per_hour": 671.1,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T10:35:43.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115754446194171911",
+      "text": "🤔不可思议！Gemini 4 Carbon 刚在 FrontierCS 2 上拿了 50 分，居然比同框架下的 Argon（54）还要低？！\n\nGoogle 两",
+      "metrics": {
+        "bookmark_count": 9,
+        "impression_count": 4554,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 5
+      }
+    },
+    {
+      "id": "2115751701982609789",
+      "author": "NFT_Chen",
+      "views": 9255,
+      "rate_per_hour": 1573.9,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T10:24:49.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115751701982609789",
+      "text": "🫡佩服！梁文峰运筹于帷幄之中，决胜于千里之外！\n\n梁文峰早前预言在Google Gemin 4 Carbon重夺大模型王座之际得以应验，此前他在DeepSeek",
+      "metrics": {
+        "bookmark_count": 17,
+        "impression_count": 9255,
+        "like_count": 50,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 6
+      }
+    },
+    {
+      "id": "2115745151276458256",
+      "author": "NFT_Chen",
+      "views": 2991,
+      "rate_per_hour": 191.0,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T09:58:47.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115745151276458256",
+      "text": "😱卧槽真出师了！单价更贵，账单却更低？Particle-1把DeepSeek V4.1 Flash 1017“卷”出新高度，Particle-1将单任务成本降低",
+      "metrics": {
+        "bookmark_count": 12,
+        "impression_count": 2991,
+        "like_count": 18,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 4
+      }
+    },
+    {
+      "id": "2115734841937555871",
+      "author": "NFT_Chen",
+      "views": 8088,
+      "rate_per_hour": 815.1,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T09:17:49.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115734841937555871",
+      "text": "🚨重磅预警！Qwen 4.0 系列模型已在工具链已经按 1M 上下文全量就位！距离发布不远了！大家做好准备！\n\n昨天 Qwen Code 合并 PR #1576",
+      "metrics": {
+        "bookmark_count": 12,
+        "impression_count": 8088,
+        "like_count": 80,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 7
+      }
+    },
+    {
+      "id": "2115728441647726852",
+      "author": "NFT_Chen",
+      "views": 1919,
+      "rate_per_hour": 143.0,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T08:52:23.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115728441647726852",
+      "text": "😍超萌！Claude Code 吉祥物 Clawd 的像素风动态表情包“克码人生”来啦 🦀！\n\n40 个透明底 GIF，程序员梗 + Claude Code 专",
+      "metrics": {
+        "bookmark_count": 12,
+        "impression_count": 1919,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 4
+      }
+    },
+    {
+      "id": "2115722396309315853",
+      "author": "NFT_Chen",
+      "views": 2512,
+      "rate_per_hour": 210.8,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T08:28:22.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115722396309315853",
+      "text": "😂目前的AI代理形势：三角恋！\n\n#Tibo #Lauren #Alexandrwang https://t.co/WUOnmH8nw3 https://t.c",
+      "metrics": {
+        "bookmark_count": 9,
+        "impression_count": 2512,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 8
+      }
+    },
+    {
+      "id": "2115718630822629480",
+      "author": "NFT_Chen",
+      "views": 1713,
+      "rate_per_hour": 83.5,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T08:13:24.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115718630822629480",
+      "text": "💥厉害！单台 DGX Spark 把 Ling-3.0-flash 解码速度干到 53.89 tok/s！+42.5% 吞吐，延迟直降 24.5%，准确率几乎零",
+      "metrics": {
+        "bookmark_count": 6,
+        "impression_count": 1713,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 4
+      }
+    },
+    {
+      "id": "2115714873615434104",
+      "author": "NFT_Chen",
+      "views": 6491,
+      "rate_per_hour": 368.4,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T07:58:28.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115714873615434104",
+      "text": "😭Tibo和Lauren热恋了！Alexandr Wang这哥们想凑热闹，结果被两个人一起给整了！\n\nAlex想买个域名去怼Tibo，结果网站一打开直接跳到自己",
+      "metrics": {
+        "bookmark_count": 6,
+        "impression_count": 6491,
+        "like_count": 20,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 5
+      }
+    },
+    {
+      "id": "2115710123805167793",
+      "author": "NFT_Chen",
+      "views": 2927,
+      "rate_per_hour": 273.4,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T07:39:36.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115710123805167793",
+      "text": "🔥重磅！腾讯正式发布 Buddy One！作为 WorkBuddy 统一工作台，账号打通、底座共享、Agent 开放接入！\n\n核心要点：\n🔹统一工作台：Work",
+      "metrics": {
+        "bookmark_count": 8,
+        "impression_count": 2927,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 5
+      }
+    },
+    {
+      "id": "2115704696904258020",
+      "author": "NFT_Chen",
+      "views": 41673,
+      "rate_per_hour": 4916.7,
+      "qualified": false,
+      "already_pushed": true,
+      "created_at": "2026-10-29T07:18:02.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115704696904258020",
+      "text": "🔥细节满满！智谱Zai创始人唐杰教授清华课堂上直接亲切喊“文峰”和“植麟”，并把DeepSeek、Kimi技术路线现场拆了，还坦白GLM-5.3降智真相！ ht",
+      "metrics": {
+        "bookmark_count": 105,
+        "impression_count": 41673,
+        "like_count": 188,
+        "quote_count": 4,
+        "reply_count": 25,
+        "retweet_count": 15
+      }
+    },
+    {
+      "id": "2115697035538264146",
+      "author": "NFT_Chen",
+      "views": 4459,
+      "rate_per_hour": 361.1,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T06:47:35.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115697035538264146",
+      "text": "😅什么？！Command Code 居然被盯上做大规模蒸馏 Claude 和 GPT，官方直接把全员 API key 一锅端了！\n\n哈哈哈，通过中间商去偷老师的",
+      "metrics": {
+        "bookmark_count": 9,
+        "impression_count": 4459,
+        "like_count": 16,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 4
+      }
+    },
+    {
+      "id": "2115692904366956728",
+      "author": "NFT_Chen",
+      "views": 6562,
+      "rate_per_hour": 404.9,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T06:31:10.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115692904366956728",
+      "text": "🤪笑死！好叛逆的大胖鱼！DeepSeek进QQ后，官方鲸彻底黑化了，返向抽打用户！\n\n用户发来“抽打鲸鱼干活”的DeepWork表情包，\n\n球球鲸直接甩回鞭子：",
+      "metrics": {
+        "bookmark_count": 10,
+        "impression_count": 6562,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 4
+      }
+    },
+    {
+      "id": "2115688714089427373",
+      "author": "NFT_Chen",
+      "views": 9762,
+      "rate_per_hour": 809.9,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T06:14:31.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115688714089427373",
+      "text": "🚨重磅实锤！Qwen3.5-27B是从Qwen3.5-9B“自己长出来”的！这可能就是开源模型早已踩到RSI门槛的证据，Qwen 4.0将是RSI的集大成者！ ",
+      "metrics": {
+        "bookmark_count": 82,
+        "impression_count": 9762,
+        "like_count": 128,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 18
+      }
+    },
+    {
+      "id": "2115684329389244858",
+      "author": "NFT_Chen",
+      "views": 21914,
+      "rate_per_hour": 1221.1,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T05:57:06.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115684329389244858",
+      "text": "💥梁圣徒弟来了！当DeepSeek V4.1 Flash已经把编码Agent的性价比卷到天花板时，新模型Particle-1直接再砍一刀！\n\n基于V4.1 Fl",
+      "metrics": {
+        "bookmark_count": 60,
+        "impression_count": 21914,
+        "like_count": 82,
+        "quote_count": 2,
+        "reply_count": 16,
+        "retweet_count": 7
+      }
+    },
+    {
+      "id": "2115677759909573084",
+      "author": "NFT_Chen",
+      "views": 2770,
+      "rate_per_hour": 120.0,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T05:31:00.000Z",
+      "url": "https://x.com/NFT_Chen/status/2115677759909573084",
+      "text": "💥太牛了！Agent交互强化学习终于不再“工程地狱”了！HarborRL开源全套框架，真实Coding Agent也能稳稳做RL！\n\n以前训Agent RL最痛",
+      "metrics": {
+        "bookmark_count": 33,
+        "impression_count": 2770,
+        "like_count": 34,
+        "quote_count": 0,
+        "reply_count": 12,
+        "retweet_count": 8
+      }
+    },
+    {
+      "id": "2115817612714090814",
+      "author": "xiaomovps",
+      "views": 367,
+      "rate_per_hour": 367.0,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T14:46:43.000Z",
+      "url": "https://x.com/xiaomovps/status/2115817612714090814",
+      "text": "国内这些 AI Agent 底层竟然和 Pi 都有关系🔥\n\n最近研究 Pi Agent 的时候发现，国内已经有不少厂商开始使用 Pi 的技术来开发自己的 Age",
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 367,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115794278785970200",
+      "author": "xiaomovps",
+      "views": 737,
+      "rate_per_hour": 258.8,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T13:14:00.000Z",
+      "url": "https://x.com/xiaomovps/status/2115794278785970200",
+      "text": "如果在国内只能推荐一个 AI Agent，我会选择 WorkBuddy🔥\n\n最近有人问我，如果是在国内，最推荐什么 Agent？\n\n其实国内的很多 Agent ",
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 737,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115778526561645055",
+      "author": "xiaomovps",
+      "views": 2777,
+      "rate_per_hour": 1150.1,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T12:11:24.000Z",
+      "url": "https://x.com/xiaomovps/status/2115778526561645055",
+      "text": "Grok Bot 我真的建议你一定要用起来，从 0 到 1 的教程我整理好了🔥\n\n这一个多月下来，我陆续分享了 49 条 Grok Bot 相关的内容，自己也从",
+      "metrics": {
+        "bookmark_count": 33,
+        "impression_count": 2777,
+        "like_count": 35,
+        "quote_count": 1,
+        "reply_count": 7,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115743740577157595",
+      "author": "xiaomovps",
+      "views": 3289,
+      "rate_per_hour": 605.3,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T09:53:11.000Z",
+      "url": "https://x.com/xiaomovps/status/2115743740577157595",
+      "text": "说个暴论：用了一个月 Grok Bot，我觉得它就是 Hermes Agent 的上位替代🔥\n\n我以前花了很多时间折腾 Hermes Agent，最主要的目的就",
+      "metrics": {
+        "bookmark_count": 10,
+        "impression_count": 3289,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      }
+    },
+    {
+      "id": "2115738442181333337",
+      "author": "xiaomovps",
+      "views": 16587,
+      "rate_per_hour": 5718.3,
+      "qualified": true,
+      "already_pushed": false,
+      "created_at": "2026-10-29T09:32:07.000Z",
+      "url": "https://x.com/xiaomovps/status/2115738442181333337",
+      "text": "https://t.co/Lro5GWLt4m",
+      "metrics": {
+        "bookmark_count": 235,
+        "impression_count": 16587,
+        "like_count": 147,
+        "quote_count": 7,
+        "reply_count": 18,
+        "retweet_count": 26
+      }
+    },
+    {
+      "id": "2115710928989893102",
+      "author": "xiaomovps",
+      "views": 3619,
+      "rate_per_hour": 584.5,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T07:42:48.000Z",
+      "url": "https://x.com/xiaomovps/status/2115710928989893102",
+      "text": "Grok Bot 社区最值得体验的 5 个 Bot 模板，有的连 AI Agent 都能自己创建了🔥\n\n最近 Grok Bot 的 Marketplace 越来",
+      "metrics": {
+        "bookmark_count": 36,
+        "impression_count": 3619,
+        "like_count": 22,
+        "quote_count": 2,
+        "reply_count": 6,
+        "retweet_count": 3
+      }
+    },
+    {
+      "id": "2115683808033001567",
+      "author": "xiaomovps",
+      "views": 3568,
+      "rate_per_hour": 359.0,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T05:55:01.000Z",
+      "url": "https://x.com/xiaomovps/status/2115683808033001567",
+      "text": "Cloudflare 又有一批 AI 羊毛可以薅了🔥\n\n之前我分享过不少 Cloudflare 的免费玩法，最近官方在 AI 方面又更新了不少功能\n\n我花了一些",
+      "metrics": {
+        "bookmark_count": 39,
+        "impression_count": 3568,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 4
+      }
+    },
+    {
+      "id": "2115658635183587414",
+      "author": "xiaomovps",
+      "views": 4479,
+      "rate_per_hour": 624.1,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T04:15:00.000Z",
+      "url": "https://x.com/xiaomovps/status/2115658635183587414",
+      "text": "Pi Agent 必须知道的 6 个隐藏设置和技巧🔥\n\nPi 用久了会发现，它有很多功能其实已经内置了，只是平时很少有人去关注，有些甚至不需要额外安装插件就能实",
+      "metrics": {
+        "bookmark_count": 63,
+        "impression_count": 4479,
+        "like_count": 38,
+        "quote_count": 2,
+        "reply_count": 8,
+        "retweet_count": 6
+      }
+    },
+    {
+      "id": "2115774025146548452",
+      "author": "alin_zone",
+      "views": 379,
+      "rate_per_hour": 52.2,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T11:53:31.000Z",
+      "url": "https://x.com/alin_zone/status/2115774025146548452",
+      "text": "一代神站，就这么悄无声息地退场了。🫡\n\nStack Overflow 真的彻底变成时代的眼泪了。\n\n下面是官方统计的月提问量👇：\n\n2014年巅峰：207,16",
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 379,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115754046850228416",
+      "author": "alin_zone",
+      "views": 439,
+      "rate_per_hour": 35.5,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T10:34:08.000Z",
+      "url": "https://x.com/alin_zone/status/2115754046850228416",
+      "text": "🚨 豆包工作向企业开放第三方模型：Kimi、DeepSeek、GLM 进入同一入口\n\n1️⃣ 更新了什么？\n\n企业端原生上线 Kimi K3.1 Pro、智谱 ",
+      "metrics": {
+        "bookmark_count": 1,
+        "impression_count": 439,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115740444806017223",
+      "author": "alin_zone",
+      "views": 328,
+      "rate_per_hour": 29.2,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T09:40:05.000Z",
+      "url": "https://x.com/alin_zone/status/2115740444806017223",
+      "text": "🚨 卧槽，Anthropic 直接让老板能看员工有没有拿 Claude 聊偏题。\n\n企业版 Claude 上了智能报告：近 28 天团队对话会被抽样分析，看产出",
+      "metrics": {
+        "bookmark_count": 0,
+        "impression_count": 328,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      }
+    },
+    {
+      "id": "2115687258686926958",
+      "author": "alin_zone",
+      "views": 677,
+      "rate_per_hour": 33.4,
+      "qualified": false,
+      "already_pushed": false,
+      "created_at": "2026-10-29T06:08:44.000Z",
+      "url": "https://x.com/alin_zone/status/2115687258686926958",
+      "text": "玩 Grok Bot 越用越顺的时候，这 3 个坑建议提前避开🔥\n\n很多人把插件和基础流程跑通之后，就开始当长期助理用，结果容易在数据、环境和定时任务上踩坑。下",
+      "metrics": {
+        "bookmark_count": 3,
+        "impression_count": 677,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      }
+    }
+  ],
+  "new_qualified": [
+    {
+      "id": "2115738442181333337",
+      "author": "xiaomovps",
+      "views": 16587,
+      "rate_per_hour": 5718.3,
+      "qualified": true,
+      "already_pushed": false,
+      "created_at": "2026-10-29T09:32:07.000Z",
+      "url": "https://x.com/xiaomovps/status/2115738442181333337",
+      "text": "https://t.co/Lro5GWLt4m",
+      "metrics": {
+        "bookmark_count": 235,
+        "impression_count": 16587,
+        "like_count": 147,
+        "quote_count": 7,
+        "reply_count": 18,
+        "retweet_count": 26
+      }
+    }
+  ]
+}
