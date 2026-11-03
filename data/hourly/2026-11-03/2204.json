@@ -1,0 +1,572 @@
+{
+  "run_at": "2026-11-03T22:19:44.949524+08:00",
+  "baseline": false,
+  "accounts": [
+    "MinLiBuilds",
+    "Lonely__MH",
+    "AYi_AInotes",
+    "gkxspace",
+    "servasyy_ai",
+    "yyyole",
+    "Saccc_c",
+    "xiangxiang103",
+    "gengdaJ",
+    "NFT_Chen",
+    "xiaomovps",
+    "alin_zone"
+  ],
+  "posts_checked": [
+    {
+      "id": "2117539848659865696",
+      "author": "alin_zone",
+      "views": 83526,
+      "rate_per_hour": 15327.4,
+      "qualified": true,
+      "already_pushed": true
+    },
+    {
+      "id": "2117466768361058808",
+      "author": "MinLiBuilds",
+      "views": 154447,
+      "rate_per_hour": 10494.2,
+      "qualified": true,
+      "already_pushed": true
+    },
+    {
+      "id": "2117531091615801395",
+      "author": "NFT_Chen",
+      "views": 59190,
+      "rate_per_hour": 8604.6,
+      "qualified": true,
+      "already_pushed": true
+    },
+    {
+      "id": "2117508777062584363",
+      "author": "AYi_AInotes",
+      "views": 44010,
+      "rate_per_hour": 5842.7,
+      "qualified": true,
+      "already_pushed": true
+    },
+    {
+      "id": "2117550970762932539",
+      "author": "NFT_Chen",
+      "views": 18122,
+      "rate_per_hour": 4938.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117486881399284175",
+      "author": "NFT_Chen",
+      "views": 38413,
+      "rate_per_hour": 4259.9,
+      "qualified": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2117501513249726769",
+      "author": "NFT_Chen",
+      "views": 46948,
+      "rate_per_hour": 3783.4,
+      "qualified": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2117603507343696004",
+      "author": "NFT_Chen",
+      "views": 4340,
+      "rate_per_hour": 3503.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117533495061066116",
+      "author": "xiangxiang103",
+      "views": 26839,
+      "rate_per_hour": 3277.8,
+      "qualified": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2117563561799270632",
+      "author": "NFT_Chen",
+      "views": 9062,
+      "rate_per_hour": 3225.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117455180275032374",
+      "author": "NFT_Chen",
+      "views": 39040,
+      "rate_per_hour": 3061.0,
+      "qualified": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2117614503957508239",
+      "author": "NFT_Chen",
+      "views": 2970,
+      "rate_per_hour": 2970.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117577392650883363",
+      "author": "Lonely__MH",
+      "views": 4796,
+      "rate_per_hour": 2722.5,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117598849611219347",
+      "author": "NFT_Chen",
+      "views": 4744,
+      "rate_per_hour": 2664.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117573784463090090",
+      "author": "NFT_Chen",
+      "views": 10173,
+      "rate_per_hour": 2477.4,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117544079731101856",
+      "author": "NFT_Chen",
+      "views": 24284,
+      "rate_per_hour": 2043.8,
+      "qualified": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2117571163870171169",
+      "author": "AYi_AInotes",
+      "views": 7337,
+      "rate_per_hour": 1983.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117444969552396431",
+      "author": "alin_zone",
+      "views": 22441,
+      "rate_per_hour": 1907.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117543879519952931",
+      "author": "AYi_AInotes",
+      "views": 8364,
+      "rate_per_hour": 1836.4,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117609335350296717",
+      "author": "NFT_Chen",
+      "views": 1699,
+      "rate_per_hour": 1699.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117547401405997238",
+      "author": "NFT_Chen",
+      "views": 19397,
+      "rate_per_hour": 1517.7,
+      "qualified": false,
+      "already_pushed": true
+    },
+    {
+      "id": "2117556204029514183",
+      "author": "NFT_Chen",
+      "views": 6521,
+      "rate_per_hour": 1358.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117584898982891698",
+      "author": "alin_zone",
+      "views": 1752,
+      "rate_per_hour": 1309.4,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117468244600893499",
+      "author": "servasyy_ai",
+      "views": 14491,
+      "rate_per_hour": 1287.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117538474278674434",
+      "author": "NFT_Chen",
+      "views": 9876,
+      "rate_per_hour": 1151.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117582338897084854",
+      "author": "gkxspace",
+      "views": 2345,
+      "rate_per_hour": 1028.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117547202495090858",
+      "author": "xiangxiang103",
+      "views": 5048,
+      "rate_per_hour": 989.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117494523391832160",
+      "author": "NFT_Chen",
+      "views": 17454,
+      "rate_per_hour": 945.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117551104917487628",
+      "author": "Lonely__MH",
+      "views": 3484,
+      "rate_per_hour": 940.9,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117508910068425023",
+      "author": "NFT_Chen",
+      "views": 11816,
+      "rate_per_hour": 888.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117481442250744072",
+      "author": "AYi_AInotes",
+      "views": 7745,
+      "rate_per_hour": 834.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117515956046184767",
+      "author": "alin_zone",
+      "views": 4185,
+      "rate_per_hour": 804.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117507981986382321",
+      "author": "Lonely__MH",
+      "views": 3243,
+      "rate_per_hour": 787.5,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117593249590473008",
+      "author": "Lonely__MH",
+      "views": 1298,
+      "rate_per_hour": 711.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117582377786778059",
+      "author": "NFT_Chen",
+      "views": 2661,
+      "rate_per_hour": 703.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117552142282363331",
+      "author": "xiaomovps",
+      "views": 3474,
+      "rate_per_hour": 643.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117577706166714658",
+      "author": "NFT_Chen",
+      "views": 3753,
+      "rate_per_hour": 639.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117527997884588090",
+      "author": "xiaomovps",
+      "views": 4936,
+      "rate_per_hour": 622.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117610489425641737",
+      "author": "xiaomovps",
+      "views": 566,
+      "rate_per_hour": 566.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117460960810291386",
+      "author": "NFT_Chen",
+      "views": 11620,
+      "rate_per_hour": 545.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117465884344082611",
+      "author": "AYi_AInotes",
+      "views": 5460,
+      "rate_per_hour": 516.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117467240765567260",
+      "author": "Lonely__MH",
+      "views": 8704,
+      "rate_per_hour": 509.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117502281021276410",
+      "author": "xiaomovps",
+      "views": 4622,
+      "rate_per_hour": 500.5,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117618227064783078",
+      "author": "AYi_AInotes",
+      "views": 472,
+      "rate_per_hour": 472.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117515197091049954",
+      "author": "NFT_Chen",
+      "views": 7942,
+      "rate_per_hour": 466.2,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117620059392942489",
+      "author": "Saccc_c",
+      "views": 423,
+      "rate_per_hour": 423.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117494344668020798",
+      "author": "AYi_AInotes",
+      "views": 7027,
+      "rate_per_hour": 398.5,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117601146563154107",
+      "author": "xiangxiang103",
+      "views": 533,
+      "rate_per_hour": 368.5,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117472229801988501",
+      "author": "NFT_Chen",
+      "views": 6488,
+      "rate_per_hour": 342.8,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117613007006310648",
+      "author": "MinLiBuilds",
+      "views": 300,
+      "rate_per_hour": 300.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117573230563057951",
+      "author": "xiaomovps",
+      "views": 1418,
+      "rate_per_hour": 287.9,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117580007967264842",
+      "author": "servasyy_ai",
+      "views": 1578,
+      "rate_per_hour": 277.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117606434376765591",
+      "author": "MinLiBuilds",
+      "views": 283,
+      "rate_per_hour": 261.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117517885996503512",
+      "author": "xiaomovps",
+      "views": 1992,
+      "rate_per_hour": 223.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117497415209210139",
+      "author": "NFT_Chen",
+      "views": 3707,
+      "rate_per_hour": 159.4,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117463531218153928",
+      "author": "MinLiBuilds",
+      "views": 3976,
+      "rate_per_hour": 151.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117618227761353134",
+      "author": "MinLiBuilds",
+      "views": 135,
+      "rate_per_hour": 135.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117487861696270766",
+      "author": "MinLiBuilds",
+      "views": 1879,
+      "rate_per_hour": 130.3,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117518757061079137",
+      "author": "NFT_Chen",
+      "views": 3137,
+      "rate_per_hour": 109.7,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117524016366014766",
+      "author": "NFT_Chen",
+      "views": 2060,
+      "rate_per_hour": 96.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117458746934993224",
+      "author": "NFT_Chen",
+      "views": 3241,
+      "rate_per_hour": 92.6,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117620912032006478",
+      "author": "MinLiBuilds",
+      "views": 83,
+      "rate_per_hour": 83.0,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117482881723601072",
+      "author": "xiangxiang103",
+      "views": 2162,
+      "rate_per_hour": 77.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117495904085127582",
+      "author": "MinLiBuilds",
+      "views": 1550,
+      "rate_per_hour": 41.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117480734294479173",
+      "author": "NFT_Chen",
+      "views": 1783,
+      "rate_per_hour": 41.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117458377316134935",
+      "author": "xiaomovps",
+      "views": 2229,
+      "rate_per_hour": 35.1,
+      "qualified": false,
+      "already_pushed": false
+    },
+    {
+      "id": "2117456960278917417",
+      "author": "alin_zone",
+      "views": 421,
+      "rate_per_hour": 18.0,
+      "qualified": false,
+      "already_pushed": false
+    }
+  ],
+  "new_qualified": [],
+  "accounts_ok": [
+    "MinLiBuilds",
+    "Lonely__MH",
+    "AYi_AInotes",
+    "gkxspace",
+    "servasyy_ai",
+    "yyyole",
+    "Saccc_c",
+    "xiangxiang103",
+    "gengdaJ",
+    "NFT_Chen",
+    "xiaomovps",
+    "alin_zone"
+  ],
+  "accounts_failed": []
+}
